@@ -1,0 +1,13 @@
+[package]
+name = "craft-rpc"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[dependencies]
+discord-rich-presence = "0.2"
+sysinfo = "0.30"
+winreg = "0.52"
+
+[build-dependencies]
+winresource = "0.1"
